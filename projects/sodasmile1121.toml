@@ -1,0 +1,14 @@
+[[projects]]
+name = "text-based-dungeon"
+url = "https://github.com/sodasmile1121/text-based-dungeon"
+description = "An independently developed text-based dungeon game using OOP purely in C++."
+
+[[projects]]
+name = "facebook-simulator"
+url = "https://github.com/sodasmile1121/facebook-simulator"
+description = "An independently developed Facebook simulator using HTML and CSS."
+
+[[projects]]
+name = "javascript-amazon-project"
+url = "https://github.com/sodasmile1121/javascript-amazon-project"
+description = "A mimic Amazon shopping website completed as part of an online JavaScript tutorial course."
